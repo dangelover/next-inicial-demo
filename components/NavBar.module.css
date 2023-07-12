@@ -1,0 +1,4 @@
+/* Para poder dar estilos debemos de crear clases y recien poder usar los elementos de html */
+.menu-container a {
+    margin-right: 10px;
+}
